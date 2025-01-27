@@ -1,20 +1,13 @@
 [build]
 publish = "public"
-command = """\
-  curl -LJO https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
-  tar -xf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
-  rm dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && \
-  export PATH=/opt/build/repo/dart-sass:$PATH && \
-  npm ci && \
-  hugo --gc -b $URL \
-  """
+command = "npm ci && hugo --gc --minify -b $URL" 
 
 [build.environment]
 NODE_VERSION = "23.1.0"
-HUGO_VERSION = "0.140.2"
+HUGO_VERSION = "0.142.0"
 HUGO_ENABLEGITINFO = "true"
 HUGO_ENV = "production"
-GO_VERSION = "1.23.2"
+GO_VERSION = "1.23.5"
 DART_SASS_VERSION = "1.81.0"
 TZ = "America/Toronto"
 
