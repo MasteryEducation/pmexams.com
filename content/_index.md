@@ -35,11 +35,11 @@ Achieving a PMI certification can significantly strengthen your career. Here’s
    - Beyond memorization, develop real-world talent for stakeholder engagement, resource balancing, risk mitigation, and strategic alignment.
 
 4. **Exclusive Discounts**  
-   - We periodically showcase [Udemy Course 1](#) – (Use coupon code PLACEHOLDER1)  
-   - [Udemy Course 2](#) – (Use coupon code PLACEHOLDER2)  
-   - [Udemy Course 3](#) – (Use coupon code PLACEHOLDER3)  
+   - [CAPM® Mastery: Advanced Mock Exams & Explanations](https://www.udemy.com/course/capm-advanced-mock-exams/?couponCode=E1CF578E5D13444BF10C) – (Use coupon code E1CF578E5D13444BF10C)  
+   - [PMP Mastery: Mock Exams & Practice Tests, PMBOK7, 2025](https://www.udemy.com/course/pmp-2025/?couponCode=A5F0F87A247F9BF2A2ED) – (Use coupon code A5F0F87A247F9BF2A2ED)  
+   - [PgMP Mastery: Mega Hard Practice Exams & Explanations](https://www.udemy.com/course/pgmp-mega-hard-practice-exams/?couponCode=0E47F335246D08ED31AE) – (Use coupon code 0E47F335246D08ED31AE)  
+   - [Portfolio Management Professional (PfMP)® Hardest Mock Exams](https://www.udemy.com/course/pfmp-mock-exams/?couponCode=EE19A6B4C485FEC2D2F8) – (Use coupon code EE19A6B4C485FEC2D2F8)  
 
-   *(Replace the placeholders above with your unique coupon links and codes!)*
 
 ## Benefits of High-End Mock Exams
 
