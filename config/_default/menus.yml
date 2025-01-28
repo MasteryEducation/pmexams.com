@@ -1,8 +1,8 @@
 # https://raw.githubusercontent.com/hbstack/site/main/config/_default/menus.en.yml
 
 main:
-  - name: Beginner
-    identifier: beginner
+  - name: PMBOK®
+    identifier: pmbok
     weight: 1
     params:
       icon:
@@ -17,27 +17,27 @@ main:
   #       #color: 'skyblue'
   #       className: text-primary
 
-  - name: Intermediate
-    identifier: intermediate
-    weight: 2
-    params:
-      icon:
-        vendor: bs
-        name: book
+  # - name: Intermediate
+  #   identifier: intermediate
+  #   weight: 2
+  #   params:
+  #     icon:
+  #       vendor: bs
+  #       name: book
 
-  - name: Expert
-    identifier: expert
-    weight: 3
-    params:
-      icon:
-        vendor: bs
-        name: book
+  # - name: Expert
+  #   identifier: expert
+  #   weight: 3
+  #   params:
+  #     icon:
+  #       vendor: bs
+  #       name: book
 
-  - name: Specialty
-    identifier: specialty
-    weight: 4
-    params:
-      icon:
-        vendor: bs
-        name: book
+  # - name: Specialty
+  #   identifier: specialty
+  #   weight: 4
+  #   params:
+  #     icon:
+  #       vendor: bs
+  #       name: book
 
