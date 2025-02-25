@@ -204,6 +204,7 @@ To track these KPIs, you design a live dashboard integrated with the fundraising
 {{< quizdown >}}
 
 ### Which of the following best describes a Key Performance Indicator (KPI)?
+
 - [ ] A broad, qualitative measure of project morale.  
 - [x] A strategic metric aligned with project or organizational goals.  
 - [ ] Any numerical metric you track in your status report.  
@@ -212,6 +213,7 @@ To track these KPIs, you design a live dashboard integrated with the fundraising
 > **Explanation:** KPIs are specialized metrics linked to strategic objectives or critical success factors, ensuring emphasis on what truly matters for project success.
 
 ### What is the primary purpose of leading indicators in project measurement?
+
 - [x] To forecast future performance or potential risks.  
 - [ ] To retrospectively evaluate project performance.  
 - [ ] To summarize completed tasks in a weekly status update.  
@@ -220,6 +222,7 @@ To track these KPIs, you design a live dashboard integrated with the fundraising
 > **Explanation:** Leading indicators serve as predictive signals, providing early warnings so team members can take preemptive actions and optimize project outcomes.
 
 ### In designing an effective dashboard, which of the following should NOT be a priority?
+
 - [x] Using as many charts and colors as possible to impress stakeholders.  
 - [ ] Ensuring data is refreshable in real-time or at relevant intervals.  
 - [ ] Tailoring available information to the specific needs of the audience.  
@@ -228,6 +231,7 @@ To track these KPIs, you design a live dashboard integrated with the fundraising
 > **Explanation:** Cluttering the dashboard with excessive visuals and colors can obscure insights. Simplicity and relevancy drive the utility of a dashboard.
 
 ### Which principle ensures that a KPI has objective criteria and time-based goals?
+
 - [ ] The Just-In-Time (JIT) principle  
 - [ ] The Flow principle  
 - [x] The SMART principle  
@@ -236,6 +240,7 @@ To track these KPIs, you design a live dashboard integrated with the fundraising
 > **Explanation:** SMART (Specific, Measurable, Achievable, Relevant, Time-Bound) is a widely used framework for defining robust KPIs and objectives.
 
 ### Which of the following is an example of a leading indicator?
+
 - [ ] Cost Performance Index (CPI)  
 - [ ] Actual Cost (AC)  
 - [ ] Schedule Variance (SV)  
@@ -244,6 +249,7 @@ To track these KPIs, you design a live dashboard integrated with the fundraising
 > **Explanation:** The risk discovery rate signals future risk obligations. CPI and SV are lagging indicators because they reveal past or current performance rather than future trends.
 
 ### In agile methodologies, which metric primarily gauges how many units of work a team completes per iteration?
+
 - [ ] Burndown Chart  
 - [x] Velocity  
 - [ ] CPI  
@@ -252,6 +258,7 @@ To track these KPIs, you design a live dashboard integrated with the fundraising
 > **Explanation:** Velocity measures how many story points or user stories the team completes over a sprint, guiding them in future planning.
 
 ### When might you need to adjust or retire a KPI?
+
 - [ ] Whenever the project sponsors change their meeting schedule.  
 - [ ] When new color schemes are requested for the dashboard.  
 - [x] If the project goals or strategic objectives evolve significantly.  
@@ -260,6 +267,7 @@ To track these KPIs, you design a live dashboard integrated with the fundraising
 > **Explanation:** KPIs should reflect current goals and operational realities. If objectives change, the KPIs must adapt to remain relevant.
 
 ### Which item listed below is a common pitfall when defining project KPIs?
+
 - [x] Selecting too many irrelevant metrics that dilute the focus.  
 - [ ] Aligning metrics to critical success factors.  
 - [ ] Involving stakeholders in KPI brainstorming sessions.  
@@ -268,6 +276,7 @@ To track these KPIs, you design a live dashboard integrated with the fundraising
 > **Explanation:** Overloading a project with too many metrics can cause confusion and diminish the value of core KPIs.
 
 ### Which of the following is an example of a qualitative metric?
+
 - [x] Stakeholder satisfaction score based on open-ended feedback.  
 - [ ] Cost Variance (CV) in US dollars.  
 - [ ] Schedule performance index (SPI).  
@@ -276,6 +285,7 @@ To track these KPIs, you design a live dashboard integrated with the fundraising
 > **Explanation:** Qualitative metrics often assess subjective aspects like stakeholder sentiment, morale, or perceived risk, requiring interpretive analysis.
 
 ### True or False: Earned Value Management (EVM) can be combined with stakeholder satisfaction metrics to better reflect overall project health.
+
 - [x] True  
 - [ ] False  
 
