@@ -2,7 +2,7 @@
 
 main:
   - name: PMBOK®
-    identifier: pmbok
+    identifier: exams
     weight: 1
     params:
       icon:

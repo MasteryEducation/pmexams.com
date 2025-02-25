@@ -2,9 +2,9 @@
 canonical: "https://pmexams.com"
 title: "Ace Your PMI Certifications with Expert Mock Exams | PMExams"
 description: "Master PMP, PgMP, PfMP, and more with in-depth mock exams, advanced test questions, and exclusive discount coupons at PMExams.com."
-draft: false
-layout: landing
-full_width: false
+homepage: true
+type: docs
+# full_width: false
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
