@@ -7,12 +7,9 @@ type: docs
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 menu:
   main:
-    parent: pmbok
+    parent: exams
     weight: 85
     params:
       description: " "
-      icon:
-        vendor: bs
-        name: book
-        className: text-primary
+
 ---
