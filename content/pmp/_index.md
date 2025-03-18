@@ -1,6 +1,6 @@
 ---
-title: Mastering Project Management 
-linkTitle: PMP
+title: PMP Mock Exams & Guide
+linkTitle: PMP Mock Exams & Guide
 description: |
   Mastering Project Management: A Comprehensive Companion for the PMP® Exam
 type: docs
